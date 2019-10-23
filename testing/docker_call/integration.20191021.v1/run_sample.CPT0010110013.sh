@@ -1,6 +1,6 @@
 #!/bin/bash
 
-snRNA_aliquot_id=CPT0086350004
+snRNA_aliquot_id=CPT0010110013
 analysis_mode=subclusters
 dir_run=/diskmnt/Projects/ccRCC_scratch/
 docker_image_name=singlecellportal/infercnv
